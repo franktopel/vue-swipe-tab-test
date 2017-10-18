@@ -1,6 +1,7 @@
 # vue-swipe-tab-test
 
-> test to implement vuew-swipe-tab in the standard vue-webpack template environment
+> test to implement vue-swipe-tab in the standard vue-webpack template environment
+> see https://github.com/zhangxiang958/vue-tab and specifically https://github.com/zhangxiang958/vue-tab/issues/1
 
 ## Build Setup
 
